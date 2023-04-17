@@ -42,9 +42,8 @@ def get_comments(link, post_ids):
 
 
 if __name__ == "__main__":
-    gr_urls = [r"https://vk.com/ria", r"https://vk.com/toporcc", r"https://vk.com/plohie_novosti_mc",
-               r"https://vk.com/trevogznie_novosti"]  # r"https://vk.com/barneos22", r"https://vk.com/chb_brn",
-    # r"https://vk.com/leftbiysk", r"https://vk.com/incident22",
+    gr_urls = [r"https://vk.com/1tv", r"https://vk.com/mash", r"https://vk.com/kpru",
+               r"https://vk.com/public67580761", r"https://vk.com/public460389", r"https://vk.com/izvestia"]
     token = "ca62f3d9ca62f3d9ca62f3d9c7ca1ea088cca62ca62f3d9a8077c79d0ec187ff848d27c"
     vk_session = vk_api.VkApi()
     vk_session.token = {'access_token': token, 'expires_in': 0}
