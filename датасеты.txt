@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets/thorinhood/russian-twitter-sentiment
+
+https://habr.com/ru/companies/vk/articles/516730/
+
+https://github.com/strawberrypie/rusentiment/blob/master/Dataset/rusentiment_random_posts.csv
+
+https://github.com/akanat/russian_reviews_dataset/tree/master/data
+
+https://www.kaggle.com/code/rtatman/emoji-analysis-entropy-repetition
