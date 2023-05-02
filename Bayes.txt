@@ -1,0 +1,5 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+
+https://habr.com/ru/articles/266025/
+
+https://github.com/Metafiz/nlp-course-20/blob/master/multiclass.ipynb
